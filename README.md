@@ -1,17 +1,23 @@
 # 🎧 Spotify Clone - HTML & CSS
 
 This is a simple **Spotify UI clone** built using only **HTML and CSS**.  
-It is a frontend-only project that focuses on layout, design, and responsive structure.
+It is a **desktop-only** frontend project that focuses on layout and design.
 
 ---
 
 ## 📸 Features
 
-- ✅ Responsive Navbar  
+- ✅ Navbar  
 - ✅ Sidebar with navigation options  
 - ✅ Music player layout (footer section)  
 - ✅ Clean UI inspired by Spotify  
-- ✅ Fully responsive for desktop view  
+
+---
+
+## ⚠️ Note
+
+This project is **only for desktop view**.  
+It is **not responsive for mobile devices** yet.
 
 ---
 
